@@ -1,5 +1,4 @@
-# Test documentation 
-for testing registration, login, and catalog modules in the Demo-Shopping web application.
+# Test documentation for testing registration, login, and catalog modules in the Demo-Shopping web application.
 
 [Check list](https://docs.google.com/spreadsheets/d/17sCFspzokDmLTSEydeGVpz7Mzh0s9B_ZZ4jskBC69R8/edit?usp=sharing)
 
